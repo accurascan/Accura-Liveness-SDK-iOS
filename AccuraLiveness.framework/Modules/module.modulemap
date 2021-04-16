@@ -1,0 +1,6 @@
+framework module AccuraLiveness {
+  umbrella header "AccuraLiveness.h"
+
+  export *
+  module * { export * }
+}
